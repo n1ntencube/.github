@@ -1,2 +1,2 @@
-# .github
-Yo!
+# NintenCube
+mettez une description lol
